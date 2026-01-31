@@ -1,4 +1,4 @@
-📊 Test Execution Analysis Dashboard
+📊 Agentic Ai Test Execution report Analytics system
 
 A Streamlit-based AI-powered dashboard for analyzing test execution reports using AutoGen agents and Groq LLMs. This system automates validation, failure categorization, and actionable recommendations, enabling faster insights from test execution data.
 
@@ -113,4 +113,5 @@ Plotly
 
 
 AutoGen SDK (Groq LLM integration)
+
 
